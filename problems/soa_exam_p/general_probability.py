@@ -1,4 +1,4 @@
-"""Questions 1 to 30."""
+"""Learning Objective 1: General Probability."""
 from sympy import symbols, Eq, solve
 
 

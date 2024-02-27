@@ -21,6 +21,7 @@ We actively encourage contributions from the community! If you're interested in 
 | problems\ai4trading      | Adapted from Udacity - AI for Trading.                                       |
 | problems\cfa_foundation  | CFA Institute Investment Foundations.                                        |
 | problems\hull_derivative | Hull, J. C. (2022). Options, Futures, and Other Derivatives (11th Edition).  |
+| problems\soa_exam_fm     | Society of Actuaries. (2023). Exam FM Sample Questions.                      |
 | problems\soa_exam_p      | Society of Actuaries. (2022). Exam P Sample Questions.                       |
 
 ## License
